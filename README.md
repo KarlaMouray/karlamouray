@@ -1,4 +1,7 @@
-# Hey, I'm Karla Mouray, sou apaixonada por conhecimento e por novas tecnologias. Estou focada na transição para área de DevOps, desenvolvendo habilidades como infraestrutura como código (Ansible e Terraform), computação em nuvem com foco na certificação Azure e a certificação CNNA , containerização e orquestradores de containers (Kubernets e Docker Swarm), aplicação e gerenciamento de microserviços e estudos sobre as práticas Agile.!
+# Hey, I'm Karla Mouray,
+
+Sou apaixonada por conhecimento e por novas tecnologias. Estou focada na transição para área de DevOps, desenvolvendo habilidades como infraestrutura como código (Ansible e Terraform), computação em nuvem com foco na certificação Azure e a certificação CNNA , containerização e orquestradores de containers (Kubernets e Docker Swarm), aplicação e gerenciamento de microserviços e estudos sobre as práticas Agile.!
+
 
 <div align="center">
   <a href="https://github.com/KarlaMouray">
@@ -26,4 +29,7 @@
   <a href = "mailto:kamouray@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/KarlaMouray" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-![Snake animation](https://github.com/KarlaMouray/karlamouray/blob/output/github-contribution-grid-snake.svg)
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
