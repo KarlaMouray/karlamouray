@@ -1,6 +1,6 @@
 # Hey, I'm Karla Mouray,
 
-Sou apaixonada por conhecimento e por novas tecnologias. Estou focada na transição para área de DevOps, desenvolvendo habilidades como infraestrutura como código (Ansible e Terraform), computação em nuvem com foco na certificação Azure e a certificação CNNA , containerização e orquestradores de containers (Kubernets e Docker Swarm), aplicação e gerenciamento de microserviços e estudos sobre as práticas Agile.!
+Sou apaixonada por conhecimento e por novas tecnologias. Estou focada na transição para área de DevOps, desenvolvendo habilidades como infraestrutura como código (Ansible e Terraform), computação em nuvem com foco nas certificações Azure e CNNA , containerização e orquestradores de containers (Kubernets e Docker Swarm), aplicação e gerenciamento de microserviços e estudos sobre as práticas Agile.!
 
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarlaMouray&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
