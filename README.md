@@ -1,5 +1,11 @@
 # Hey, I'm Karla Moura,
 
+
+books Programa Desenvolve - Grupo Boticário
+seedling Trilhando a carreira de DevOps infinity
+smile Pronome: ela/she/ella
+
+
 Sou apaixonada por conhecimento e por novas tecnologias. Estou focada na transição para área de DevOps, desenvolvendo habilidades como infraestrutura como código (Ansible e Terraform), computação em nuvem com foco nas certificações Azure e CNNA , containerização e orquestradores de containers (Kubernets e Docker Swarm), aplicação e gerenciamento de microserviços e estudos sobre as práticas Agile.!
 
 
