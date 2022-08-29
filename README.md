@@ -6,6 +6,8 @@
 
 . Womcy – Microsoft Cybersecurity Education & Certification Program - (Cloud Computing & Certificações da Azure)
 
+. LInuxTips - AWS Expert #BondeDaAWS 
+
 . ONE - Oracle Next Education (Front End) 
 
 
