@@ -36,6 +36,11 @@
   <a href = "mailto:kamouray@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/KarlaMouray" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  
+  <div align="center">
+  
+<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
+
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
