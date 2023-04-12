@@ -1,6 +1,6 @@
 # Hey, I'm Karla Moura,
 
-. Estou participando do  Programa Desenvolve - Grupo Boticário (DevOps)
+. Participei do  Programa Desenvolve - Grupo Boticário (DevOps)
 
 . Women Rock-IT- Cisco (Certificação CNNA)
 
