@@ -1,14 +1,12 @@
 # Hey, I'm Karla Moura,
 
-. Participei do  Programa Desenvolve - Grupo Boticário (DevOps)
-
-. Women Rock-IT- Cisco (Certificação CNNA)
-
-. Womcy – Microsoft Cybersecurity Education & Certification Program - (Cloud Computing & Certificações da Azure)
-
-. LInuxTips - AWS Expert #BondeDaAWS 
-
-. ONE - Oracle Next Education (Front End) 
+● Desenvolve Grupo Boticário em Parceria com Alura - Trilha de DevOps 2022
+● Women Rock-IT- Cisco (Certificação CNNA)
+● Womcy – Microsoft Cybersecurity Education & Certification Program - (Cloud Computing & Certificações da Azure)
+● LInuxTips - AWS Expert #BondeDaAWS 
+● ONE - Oracle Next Education (Front End)
+● Google Cloud Computing Foundations- Fundação Fat 2022
+● Fundamentos AWS - Escola da Nuvem 2023
 
 
   Sou apaixonada por conhecimento e por novas tecnologias. Estou focada na transição para área de DevOps, desenvolvendo habilidades como infraestrutura como código (Ansible e Terraform), computação em nuvem com foco nas certificações Azure e CNNA , containerização e orquestradores de containers (Kubernets e Docker Swarm), aplicação e gerenciamento de microserviços e estudos sobre as práticas Agile.!
