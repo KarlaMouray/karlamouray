@@ -1,11 +1,17 @@
 # Hey, I'm Karla Moura,
 
 ● Desenvolve Grupo Boticário em Parceria com Alura - Trilha de DevOps 2022
+
 ● Women Rock-IT- Cisco (Certificação CNNA)
+
 ● Womcy – Microsoft Cybersecurity Education & Certification Program - (Cloud Computing & Certificações da Azure)
+
 ● LInuxTips - AWS Expert #BondeDaAWS 
+
 ● ONE - Oracle Next Education (Front End)
+
 ● Google Cloud Computing Foundations- Fundação Fat 2022
+
 ● Fundamentos AWS - Escola da Nuvem 2023
 
 
